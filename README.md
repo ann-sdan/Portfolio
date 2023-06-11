@@ -1,11 +1,14 @@
 # Portfolio
+
+My personal portfolio
  
  ![image](https://github.com/ann-sdan/Portfolio/assets/114868348/c08a3bbb-6c46-4c84-a5af-a3e058629db9)
 
  
 ## Description
 
-The site is designed for a community Science Museum that wanted to be attractive to middle age school children and families with youngsters. The site is designed for already interested young people who find science exciting and fun. And the idea of target audience the site is simply informed and engaging and interest them to want to visit the museum.
+This is a portfolio that shows all my skills, and projects I have worked on/and am working on. 
+Hope you find some of the projects interesting and get in touch.
 
 ## Built With
 
